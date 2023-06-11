@@ -52,10 +52,13 @@ When you are ready to submit your contributions, follow these steps:
 
 ### Code of Conduct
 
-We expect all contributors to adhere to the project's Code of Conduct. Please ensure that your interactions and contributions align with the guidelines specified in the Code
+We expect all contributors to adhere to the project's Code of Conduct. Please ensure that your interactions and contributions align with the guidelines specified in the Code of Conduct.
 
-We highly appreciate your contributions and the collaborative spirit you bring to the project. Together, we can build a valuable resource for the computer vision and deep learning community.
+If you encounter any issues, have concerns, or need clarification regarding the project or the contribution process, please reach out to the project maintainers, please feel free to reach out to us and `Raise a Issue` or `PR`. 
 
-If you have any questions or need further clarification, please feel free to reach out to us and Raise a Issue or PR. 
+Thank you for your valuable contributions! Together, we can create a valuable resource for the computer vision and deep learning community.
+
+We highly appreciate your contributions and the collaborative spirit you bring to this project. 
+
  
  *Happy contributing!*
