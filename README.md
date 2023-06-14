@@ -1,6 +1,8 @@
 # Computer-Vision-Research-Papers
 
-Welcome to the Deep Learning for Computer Vision Research Exploration project! This repository aims to provide a comprehensive collection of research papers, summaries, implementations, and resources related to computer vision, deep learning, and machine learning. The project's goal is to facilitate knowledge expansion, encourage collaboration, and stay updated with the latest advancements in the field.
+Welcome to the Deep Learning for Computer Vision Research Exploration project! 
+
+This repository aims to provide a comprehensive collection of research papers, summaries, implementations, and resources related to computer vision, deep learning, and machine learning. The project's goal is to facilitate knowledge expansion, encourage collaboration, and stay updated with the latest advancements in the field.
 
 ## Table of Contents
 
