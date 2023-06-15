@@ -57,7 +57,7 @@ Getting Started
 | Sr. No. | Day | Paper Title | Description | Code | Blog | Video Explaination | Notes |
 | --------| ----|--------------| ----------| -----| -----| --------------------| -----| 
 | 01 | 1-2 | [Fully Convolutional Networks for Semantic Segmentation](https://www.cvfoundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf) | To build “fully convolutional” networks that take input of arbitrary size and produce correspondingly-sized output with efficient inference and learning. | 
-
+| 02 | 3-4 | 
 
 ### Contributing
 
