@@ -47,17 +47,19 @@ Getting Started
 
   - *We will Look to cover well-known conferences and journals in the field of computer vision, such as CVPR (Conference on Computer Vision and Pattern Recognition), ICCV (International Conference on Computer Vision), or PAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence).*
   
-  - *We will be taking detailed notes and summarize the main contributions, methodologies, and results. This will help us retain the information and refer back to it later.*
+  - *We will be taking detailed notes and summarizing the main contributions, methodologies, and results. This will help us retain the information and refer back to it later.*
 
 
 ## Timeline 
 
 #60days30CVPapers
 
-| Sr. No. | Day | Paper Title | Description | Code | Blog | Video Explaination | Notes |
+| Sr. No. | Day | Paper Title | Description | Code | Blog | Video Explanation | Notes |
 | --------| ----|--------------| ----------| -----| -----| --------------------| -----| 
-| 01 | 1-2 | [Fully Convolutional Networks for Semantic Segmentation](https://www.cvfoundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf) | To build “fully convolutional” networks that take input of arbitrary size and produce correspondingly-sized output with efficient inference and learning. | 
+| 01 | 1-2 | [Fully Convolutional Networks for Semantic Segmentation](https://www.cvfoundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf) | To build “fully convolutional” networks that take input of the arbitrary size and produce correspondingly-sized output with efficient inference and learning. | 
 | 02 | 3-4 | 
+| 03 | 5-6 |
+| 04 | 7-8 |
 
 ### Contributing
 
