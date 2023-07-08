@@ -60,6 +60,7 @@ Getting Started
 | 02 | 3-4 | 
 | 03 | 5-6 |
 | 04 | 7-8 |
+| 05 | 9-10 |
 
 ### Contributing
 
